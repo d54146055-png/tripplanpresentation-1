@@ -1,0 +1,2 @@
+// Image utilities placeholder
+export {};

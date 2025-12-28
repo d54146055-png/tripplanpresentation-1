@@ -1,0 +1,7 @@
+{
+  "name": "Seoul Trip Planner",
+  "description": "Your ultimate companion for the Seoul trip. Itinerary, expenses, and AI map search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
